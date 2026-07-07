@@ -28,36 +28,34 @@ O projeto foi executado seguindo as 6 etapas do processo de análise de dados en
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
-*Você pode manter apenas as ferramentas que você usou no seu projeto:*
-* **Armazenamento e Manipulação:** [Ex: Google Sheets / MS Excel / SQL Server / BigQuery]
-* **Linguagem de Programação:** [Ex: Python (Pandas, NumPy) / R]
-* **Visualização de Dados:** [Ex: Tableau / Power BI / Matplotlib / Seaborn]
+
+* **Armazenamento e Manipulação:** Google Sheets / SQLITE/ BigQuery
+* **Linguagem de Programação:**  Python (Pandas, NumPy) 
+* **Visualização de Dados:** PowerBI
 
 ---
 
 ## 📈 Principais Descobertas (Insights)
-*Substitua os tópicos abaixo pelos resultados reais que você encontrou na sua análise:*
-* 💡 **Padrão de Uso:** Membros anuais tendem a usar as bicicletas de forma consistente durante os dias de semana (padrão de deslocamento diário para o trabalho), enquanto ciclistas casuais utilizam mais nos finais de semana (lazer).
-* 💡 **Duração das Viagens:** Ciclistas casuais possuem uma média de tempo de viagem significativamente maior do que os membros anuais.
-* 💡 **Sazonalidade:** O uso do serviço por ciclistas casuais aumenta drasticamente durante os meses de verão.
+
+
 
 ---
 
 ## 🎯 Recomendações Estratégicas
-*Substitua pelas suas 3 recomendações finais baseadas na análise:*
-1. **Campanhas de Verão Focadas:** Criar campanhas de marketing digital específicas para os meses quentes, destacando os benefícios financeiros da assinatura anual para quem já usa o serviço frequentemente no lazer.
-2. **Planos Promocionais de Final de Semana:** Desenvolver um pacote de assinatura focado em finais de semana ou converter esses usuários de lazer através de gatilhos de fidelidade.
-3. **Comunicação Direta nas Estações:** Utilizar canais digitais ou mídias próximas às estações mais populares entre os ciclistas casuais para demonstrar como a assinatura anual economiza tempo e dinheiro.
+
+1.
+2. 
+3.  
 
 ---
 
 ## 📁 Estrutura do Repositório
 * `data/`: Pasta contendo amostras ou links para os datasets originais utilizados.
-* `scripts/`: Scripts de limpeza e análise (arquivos `.sql`, `.ipynb` ou `.R`).
+* `scripts/`: Scripts de limpeza e análise (arquivos `.sql`, `.ipynb`).
 * `visualizations/`: Gráficos gerados e a apresentação final do projeto.
 * `README.md`: Documentação principal do projeto.
 
 ---
 
 ## ✒️ Autor
-* **Seu Nome** - [Seu LinkedIn](https://linkedin.com/in/seu-perfil) - [Seu Portfólio](https://seu-portfolio.com)
+* **Fernanda Moura** - [LinkedIn](https://linkedin.com/in/fernanda-moura96) 
