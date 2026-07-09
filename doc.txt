@@ -1,0 +1,13 @@
+Como os membros anuais e os ciclistas ocasionais usam as bicicletas da Ciclística de maneiras diferentes?
+
+
+A limpeza de dados e padronização foi feita excluindo dados nulos, padronizando data e hora, calculei a duração das corridas, foi possível observar corridas com durabilidade negativa e pude ver que todas era na mesma estação. A estação HQ QR aparentemente tiveram um problema na coleta dos dados ou era uma estação de teste. Todas as corridas nessa estação estavam com valores abaixo de 3sg, incluindo os valores negativos. Os dados referentes a esta estação foram descartados com a utilização de filtros.
+
+-tempo médio de viagem por estação
+-estação mais e menos usada em tempo e numero de viagens 
+-qtd de assinantes e usuários casuais
+-qtd e diferença de tempo de uso entre os usuários 
+
+next one:
+
+saber qual estação é mais usada por assinantes e casuais
