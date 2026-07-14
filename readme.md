@@ -20,8 +20,8 @@ O projeto foi executado seguindo as 6 etapas do processo de análise de dados en
 
 1. **Perguntar (Ask):** Definição do problema de negócios, identificação das partes interessadas e estabelecimento da questão central.
 2. **Preparar (Prepare):** Coleta e verificação dos dados históricos de viagens da Cyclistic (dados públicos anonimizados).
-3. **Processar (Process):** Limpeza e transformação dos dados (criação das variáveis `ride_length` e `day_of_week`), eliminação de duplicatas e tratamento de inconsistências.
-4. **Analisar (Analyze):** Agregação de dados, cálculos estatísticos descritivos (média, máximo, moda) e cruzamento de variáveis via tabelas dinâmicas/consultas.
+3. **Processar (Process):** Limpeza e transformação dos dados, eliminação de duplicatas e tratamento de inconsistências.
+4. **Analisar (Analyze):** Agregação de dados, cálculos estatísticos descritivos (média, máximo, mínimo) 
 5. **Compartilhar (Share):** Criação de visualizações de dados claras, profissionais e de alto contraste para a liderança executiva.
 6. **Agir (Act):** Formulação das três principais recomendações estratégicas com base nos resultados encontrados.
 
@@ -29,8 +29,8 @@ O projeto foi executado seguindo as 6 etapas do processo de análise de dados en
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-* **Armazenamento e Manipulação:** Google Sheets / SQLITE/ BigQuery
-* **Linguagem de Programação:**  Python (Pandas, NumPy) 
+* **Armazenamento e Manipulação:** Google Sheets / SQLITE/
+
 * **Visualização de Dados:** PowerBI
 
 ---
