@@ -9,11 +9,12 @@ SELECT
     AVG(CASE WHEN member_casual = 'casual' THEN ride_length_seconds END) AS diferenca
 FROM trips
 WHERE  ride_length_seconds >= 180 
-  AND ride_length_seconds <= 86400
+  AND ride_length_seconds <= 86400;
 
 
---Os dados mostram que usuários causuai usam o serviço por um período de tempo maior do que os membros,
--- com uma diferença de aproximadamente 1.698 segundos (16,3 minutos).
+--Os dados mostram que usuários causuai usam o serviço por um período de tempo médio de 40 minutos aproximadamente,
+-- enquanto os membros usam o serviço por um período de tempo médio de 12 minutos,
+-- com uma diferença de aproximadamente 1.698 segundos (28 minutos aproximados).
 --Usando a formula de conversão para porcetagem, podemos calcular a diferença percentual entre os dois grupos.
 --A fórmula para calcular a diferença percentual é:
 --(Diferença / Média dos Membros) * 100, Oque revela que Usuários casuais pedalam, em média, 232,60% mais tempo do que os membros
