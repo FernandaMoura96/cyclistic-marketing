@@ -1,0 +1,11 @@
+Como usuários casuais e assinantes utilizam nossos serviços de forma diferente?
+
+A equipe de marketing solicitou uma análise para diferenciar o perfil de cada tipo de usuário, afim de definirem qual a melhor estratégia 
+para capitar novas assinaturas de clientes que já conhecem nossos serviços.
+
+Os dados vieram do nosso sistema de coleta interno com registro de mais de 46.000 viagens em um período aproximado de 120 dias.
+Os dados foram limpos, validados e formatados em Excel, e as análises foram realizadas em SQL com um banco de dados local.
+
+Na amostra continha, a identificação de cada cliente, a identificação de cada viagem, os nomes e códigos identificadores de cada estação,
+indicando local de retirada e devolução do equipamento.
+Continha também, data e hora de cada viagem indicando a duração das viagens. 

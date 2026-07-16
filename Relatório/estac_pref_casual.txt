@@ -1,0 +1,54 @@
+50 estações mais utilizadas por casuais em ordem descrescente.
+
+start_station_id,station_name,preferidas_member
+
+76	Lake Shore Dr & Monroe St	1590
+35	Streeter Dr & Grand Ave	1530
+3	Shedd Aquarium	998
+90	Millennium Park	779
+85	Michigan Ave & Oak St	631
+177	Theater on the Lake	567
+43	Michigan Ave & Washington St	495
+6	Dusable Harbor	490
+341	Adler Planetarium	465
+199	Wabash Ave & Grand Ave	428
+268	Lake Shore Dr & North Blvd	402
+255	Indiana Ave & Roosevelt Rd	397
+623	Michigan Ave & 8th St	391
+2	Buckingham Fountain	335
+334	Lake Shore Dr & Belmont Ave	332
+195	Columbus Dr & Randolph St	326
+99	Lake Shore Dr & Ohio St	316
+52	Michigan Ave & Lake St	313
+110	Dearborn St & Erie St	308
+36	Franklin St & Jackson Blvd	305
+284	Michigan Ave & Jackson Blvd	295
+44	State St & Randolph St	294
+97	Field Museum	292
+94	Clark St & Armitage Ave	282
+300	Broadway & Barry Ave	279
+249	Montrose Harbor	259
+25	Michigan Ave & Pearson St	255
+26	McClurg Ct & Illinois St	254
+313	Lakeview Ave & Fullerton Pkwy	253
+77	Clinton St & Madison St	251
+176	Clark St & Elm St	233
+141	Clark St & Lincoln Ave	231
+211	St. Clair St & Erie St	230
+192	Canal St & Adams St	227
+181	LaSalle St & Illinois St	222
+51	Clark St & Randolph St	218
+673	Lincoln Park Conservatory	217
+157	Lake Shore Dr & Wellington Ave	213
+324	Stockton Dr & Wrightwood Ave	210
+53	Wells St & Huron St	208
+426	Ellis Ave & 60th St	208
+71	Morgan St & Lake St	205
+289	Wells St & Concord Ln	205
+459	Lakefront Trail & Bryn Mawr Ave	205
+7	Field Blvd & South Water St	200
+127	Lincoln Ave & Fullerton Ave	200
+24	Fairbanks Ct & Grand Ave	199
+247	Shore Dr & 55th St	198
+196	Cityfront Plaza Dr & Pioneer Ct	191
+67	Sheffield Ave & Fullerton Ave	189
