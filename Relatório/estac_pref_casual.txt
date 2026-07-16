@@ -1,4 +1,4 @@
-50 estações mais utilizadas por membros casuais em ordem descrescente.
+50 estações mais utilizadas por casuais em ordem descrescente.
 
 start_station_id,station_name,preferidas_member
 
