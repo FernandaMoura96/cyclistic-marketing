@@ -1,0 +1,54 @@
+50 estações mais utilizadas por usuáros assinantes em ordem decrescente.
+
+start_station_id, station_name, preferidas_member
+
+192	Canal St & Adams St	7585
+77	Clinton St & Madison St	6545
+91	Clinton St & Washington Blvd	5822
+133	Kingsbury St & Kinzie St	4490
+195	Columbus Dr & Randolph St	4098
+287	Franklin St & Monroe St	3579
+174	Canal St & Madison St	3496
+66	Clinton St & Lake St	3402
+48	Larrabee St & Kingsbury St	3374
+81	Daley Center Plaza	3092
+283	LaSalle St & Jackson Blvd	3050
+43	Michigan Ave & Washington St	3037
+49	Dearborn St & Monroe St	2926
+56	Desplaines St & Kinzie St	2841
+110	Dearborn St & Erie St	2837
+52	Michigan Ave & Lake St	2771
+53	Wells St & Huron St	2760
+36	Franklin St & Jackson Blvd	2754
+176	Clark St & Elm St	2721
+211	St. Clair St & Erie St	2628
+212	Wells St & Hubbard St	2591
+71	Morgan St & Lake St	2474
+74	Kingsbury St & Erie St	2455
+100	Orleans St & Merchandise Mart Plaza	2452
+199	Wabash Ave & Grand Ave	2380
+59	Wabash Ave & Roosevelt Rd	2375
+289	Wells St & Concord Ln	2281
+191	Canal St & Monroe St	2256
+107	Desplaines St & Jackson Blvd	2161
+51	Clark St & Randolph St	2134
+638	Clinton St & Jackson Blvd	2118
+18	Wacker Dr & Washington St	2098
+423	University Ave & 57th St	2067
+210	Ashland Ave & Division St	2064
+164	Franklin St & Lake St	2055
+47	State St & Kinzie St	2028
+255	Indiana Ave & Roosevelt Rd	2021
+69	Damen Ave & Pierce Ave	1983
+67	Sheffield Ave & Fullerton Ave	1970
+44	State St & Randolph St	1944
+24	Fairbanks Ct & Grand Ave	1909
+344	Ravenswood Ave & Lawrence Ave	1909
+38	Clark St & Lake St	1836
+58	Marshfield Ave & Cortland St	1834
+142	McClurg Ct & Erie St	1786
+331	Halsted St & Clybourn Ave	1780
+182	Wells St & Elm St	1750
+111	Sedgwick St & Huron St	1746
+181	LaSalle St & Illinois St	1746
+84	Milwaukee Ave & Grand Ave	1745
