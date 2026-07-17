@@ -1,9 +1,0 @@
-Como os membros anuais e os ciclistas ocasionais usam as bicicletas da Ciclística de maneiras diferentes?
-
-GOOGLE SHEETS
-
-A limpeza de dados e padronização foi feita excluindo dados nulos, padronizando data e hora,  foi possível observar corridas com durabilidade negativa e com viagens com mais de 24h (bike não devolvida- outlier) e pude ver que todas as negativas eram na mesma estação. A estação HQ QR  era uma estação de teste. Todas as corridas nessa estação estavam com valores abaixo de 3sg, incluindo os valores negativos. Os dados referentes a esta estação foram descartados com a utilização de filtros.
-
-SQLITE
-
-Usei o claude para construir o arquivo .db com o dataset. 
